@@ -42,6 +42,7 @@ h1 {
 }
 
 h1 strong {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
     background: #D0CCD0;
     color: #D0CCD0;
     -webkit-text-fill-color: transparent;
@@ -53,7 +54,7 @@ img {
 
 p {
     color: #D0CCD0;
-    font-family: Helvetica, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
     text-align: center;
 }
 
