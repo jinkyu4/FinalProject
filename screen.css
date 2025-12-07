@@ -30,19 +30,21 @@ nav ul li {
 nav ul li a {
     display: inline-block;
     padding: 20px;
-    color: #EAE8FF;
+    color: #FEFFEA;
     text-decoration: none;
     font-size: 1.2em;
 }
 
 h1 {
     font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    color: #FEFFEA;
     font-size: 8em;
     letter-spacing: -2px;
 }
 
 h2 {
     font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    color: #FEFFEA;
     font-size: 2em;
     letter-spacing: -2px;
 }
