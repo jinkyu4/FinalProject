@@ -8,7 +8,6 @@ body {
   text-align: center;
 }
 
-/* NAVIGATION */
 .site-nav {
   background: #b0b0b0;
   padding: 10px 0;
@@ -36,40 +35,21 @@ body {
   font-weight: bold;
 }
 
-/* HEADINGS */
 h1, h2, h3 {
   margin-top: 30px;
   letter-spacing: -1px;
   color: #FEFFEA;
 }
 
-.intro {
-  max-width: 600px;
-  margin: 10px auto;
-}
-
 /* PROFILE IMAGE */
-.profile {
+img {
   width: 250px;
   border-radius: 10px;
   margin-top: 20px;
 }
 
-/* RESUME SECTIONS */
-.resume-section {
-  margin: 30px auto;
-  max-width: 600px;
-  text-align: left;
-  background: #444;
-  padding: 20px;
-  border-radius: 10px;
-}
 
-.skills li {
-  text-align: left;
-}
 
-/* CONTACT FORM */
 .contact-form {
   max-width: 500px;
   margin: 20px auto;
